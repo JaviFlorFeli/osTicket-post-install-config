@@ -58,4 +58,58 @@ Create a new department. You will do so by going to the "Agents" tab and then cl
 
 You will name the new department "System Administrators". Leave SLA option default. Once an SLA is configured we will go back and update. Select " Create Dept".
 
-<img src="https://imgur.com/6VHxi9C.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/7ZxZlUD.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+Create a new Team. go to the "Agents" tab, then go to "Teams". Select the "Add New Team" option. Name the team "Level II Support"
+
+<img src="https://imgur.com/Mf5HU4d.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+
+
+<img src="https://imgur.com/5hwpgLx.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+Go over to the "Members" tab. As you are the only existing member at this point, add yourself to the team. Select "Create Team".
+
+<img src="https://imgur.com/kDj0Ysc.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+Go to the "Settings" tab, Click on "Users". Verify that the "Registration Required" option is not checked, to allow other users to create tickets.
+
+<img src="https://imgur.com/eLHnxYe.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+Next step is to create the agents
+  - Jane Richards
+  - John Richards
+
+Go to the "Agents" tab, Then Click on the " Add New Agent" option
+
+<img src="https://imgur.com/v5UsGGw.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+Fill in the information below. Select "set password".
+
+<img src="https://imgur.com/bxyG8xU.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+Make sure that both boxes are not checked. Set the password to "Password1". Select "set"
+
+<img src="https://imgur.com/l47YVrD.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+For Jane, select the "System Administrators" department. Apply the "Supreme Admin" role
+
+<img src="https://imgur.com/9LICNKA.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+Go to the "teams" tab. Select the "Level II Support" team. Create the agent.
+
+<img src="https://imgur.com/oC51wGh.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+Create the agent "John"
+Fill in the information
+
+<img src="https://imgur.com/c6lGrSg.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+Set the password to "Password1". Be sure that both boxes are not checked. select the "set" option
+
+<img src="https://imgur.com/l47YVrD.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+Select The "Support" department. John's role will be "View only". Create the agent.
+
+<img src="https://imgur.com/QbwhhxO.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
