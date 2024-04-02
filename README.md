@@ -105,11 +105,81 @@ Fill in the information
 
 <img src="https://imgur.com/c6lGrSg.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 
-Set the password to "Password1". Be sure that both boxes are not checked. select the "set" option
+Set the password to "Password1". Be sure that both boxes are not checked. select the "set" option.
 
 <img src="https://imgur.com/l47YVrD.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 
 Select The "Support" department. John's role will be "View only". Create the agent.
 
 <img src="https://imgur.com/QbwhhxO.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+Click on the highlighted option. It will take you to the agent panel.
+
+<img src="https://imgur.com/ZqzLXex.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+We will create our "users" for this lab 
+  - Karen
+  - Ken
+
+Go to the "Users" tab and then click on "User Directory". Select "Add New User".
+
+<img src="https://imgur.com/ihzorGY.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+Fill the information in the highlighted boxes, Select "Add User"
+
+<img src="https://imgur.com/SfAcQ37.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+Follow the same steps for Ken as you did for Karen. You have now created both users for the lab.
+
+<img src="https://imgur.com/fh9DzED.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+The next step is to configure an SLA plan.
+  - Head back to the Admin Panel
+  - "Manage" tab
+  - "SLA"
+  - Select "Add New SLA Plan"
+    -  SEV-A
+    -  SEV-B
+    -  SEV-C  
+
+<img src="https://imgur.com/zPrZf5u.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+Grace period: 1 hour
+
+Schedule: 24/7
+
+<img src="https://imgur.com/C5BayFO.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+Grace period :4 hours
+
+Schedule: 24/7
+
+<img src="https://imgur.com/UPcCD9r.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+Grace period: 8 hours
+
+Schedule: Mon-Fri 8am-5pm
+
+<img src="https://imgur.com/gVvLhXU.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+Next step is to configure help topics to be assigned to the tickets.
+- Select "Manage" tab
+- "Help Topics" tab
+- "Add New Help Topics"
+
+<img src="https://imgur.com/nSJeIBn.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+  - Business Critical Outage
+  - Personal Computer Issues
+  - Equipment Reset
+
+<img src="https://imgur.com/RecbCDh.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+
+
+<img src="https://imgur.com/wg3f4m7.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+
+
+<img src="https://imgur.com/yLo5VuH.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 
